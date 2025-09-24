@@ -33,7 +33,7 @@ yaml
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/subenum.git
+git clone https://github.com/barakamukungu/subenum.git
 cd subenum
 2. (Optional) Create a virtual environment
 bash
